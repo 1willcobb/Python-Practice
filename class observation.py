@@ -26,6 +26,7 @@ class RegistryStatus(Enum):
 taxes = {FuelType.ELECTRIC: 0.02, FuelType.PETROL: 0.05}
 
 
+#dataclasses
 @dataclass
 class VehicleInfoMissingError(Exception):
     """Custom error that is raised when vehicle information is missing for a particular brand."""
