@@ -46,6 +46,7 @@ class VehicleModelInfo:
     fuel_type: FuelType = FuelType.ELECTRIC
     production_year: int = datetime.now().year
 
+    #property decorator
     @property
     def tax(self) -> float:
         """Tax to be paid when registering a vehicle of this type."""
