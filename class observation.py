@@ -20,6 +20,7 @@ class RegistryStatus(Enum):
     ONLINE = auto()
     CONNECTION_ERROR = auto()
     OFFLINE = auto()
+    #! Vehicle Registration
 
 
 taxes = {FuelType.ELECTRIC: 0.02, FuelType.PETROL: 0.05}
