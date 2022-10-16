@@ -9,5 +9,6 @@ def get_height():
         n = int(input("Height: "))
         if n > 0:
             return n
+        
     
 main()
