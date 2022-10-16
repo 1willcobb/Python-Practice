@@ -4,6 +4,7 @@ def main():
         print("#")
 
 
+#get hight adjusted 
 def get_height():
     while True:
         n = int(input("Height: "))
