@@ -28,4 +28,7 @@ def greet_user():
         prompt_new_name()
         print(f"We'll remember you when you come back, {username}!")
 
+def greet_2():
+    print("hey")
+
 greet_user()
