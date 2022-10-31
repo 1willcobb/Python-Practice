@@ -1,5 +1,4 @@
 import json
-import 
 
 class Person:
 
@@ -30,3 +29,6 @@ class Person:
 p1 = Person(None, None, None)
 p1.load_from_json('./test/test.json')
 p1.print_info()
+
+def like(): 
+    print("like")
