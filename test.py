@@ -32,3 +32,5 @@ p1.print_info()
 
 def like(): 
     print("like")
+
+
