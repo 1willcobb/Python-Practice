@@ -14,7 +14,7 @@ def get_height():
             return n
         
 
-def math(a):
-    return a * a
+def math(a, b):
+    return a * b
     
 main()
