@@ -16,5 +16,8 @@ def get_height():
 
 def math(a, b):
     return a * b
+
+def addition(b, c, d):
+    return b + c + d
     
 main()
