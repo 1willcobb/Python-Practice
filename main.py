@@ -4,6 +4,7 @@ def main():
     for i in range(height):
         print("#")
     print(math(3))
+    print(addition(2,1,3))
 
 
 #get hight adjusted 
