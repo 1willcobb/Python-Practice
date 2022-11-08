@@ -10,3 +10,5 @@ print(len(split_name))
 name1 = split_name[0]
 print(len(name1))
 print([*name1])
+
+print("SUPPPER")
