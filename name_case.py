@@ -12,3 +12,5 @@ print(len(name1))
 print([*name1])
 
 print("SUPPPER")
+
+switch
