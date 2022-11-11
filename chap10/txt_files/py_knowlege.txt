@@ -1,0 +1,3 @@
+In Python I have learned to work with lists.
+In Python I have learned to work with dictionaries which are my favoirte thus far.
+In Python I am trying to learn how classes function on larger scales. 
