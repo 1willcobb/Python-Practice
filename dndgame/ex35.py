@@ -14,7 +14,7 @@ def gold_room():
         print("Nice, you are not greedy. You Win!")
         exit(0)
     else:
-        dead("you greedy bastard!")
+        dead("you greedy bastard! You dead!")
 
 
 def bear_room():
