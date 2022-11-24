@@ -45,6 +45,7 @@ def cthulhu_room():
     print("here you see the great evil Cthulhu.")
     print("He, it, whatever stares at you and you go insane.")
     print("Do you flee for your life or eat your head?")
+    print("hello?")
 
     choice = input(">> ").strip().lower()
 
