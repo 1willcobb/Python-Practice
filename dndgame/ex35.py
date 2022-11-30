@@ -65,7 +65,8 @@ def dead(why):
 def start():
     print("You are in a dark room.\n"
           "There is a door to your right and left.\n"
-          "Which one do you take?\n")
+          "Which one do you take?\n"
+          "Hey you still there?\n")
 
     choice = input(">> ").strip().lower()
 
