@@ -1,6 +1,6 @@
 from ex35 import *
 
 def newIdea():
-  print("hey")
+  print("""HEYYYYYY""")
 
 start()
