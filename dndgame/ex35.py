@@ -67,6 +67,13 @@ def start():
           "There is a door to your right and left.\n"
           "Which one do you take?\n"
           "Hey you still there?\n")
+    
+    def newIdea():
+        print("""
+                HEYYYYYY
+                This is a text area
+                text area 2
+        """)
 
     choice = input(">> ").strip().lower()
 
