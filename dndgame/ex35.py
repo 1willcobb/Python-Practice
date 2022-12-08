@@ -74,6 +74,8 @@ def start():
                 This is a text area
                 text area 2
         """)
+    
+    newIdea()
 
     choice = input(">> ").strip().lower()
 
