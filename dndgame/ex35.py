@@ -61,6 +61,13 @@ def dead(why):
     print(why, "Good Job!")
     exit(0)
 
+def newIdea():
+    print(""" 
+HEYYYYYY
+This is a text area
+text area 2
+    """)
+
 
 def start():
     print("You are in a dark room.\n"
@@ -68,13 +75,8 @@ def start():
           "Which one do you take?\n"
           "Hey you still there?\n")
     
-    def newIdea():
-        print("""
-                HEYYYYYY
-                This is a text area
-                text area 2
-        """)
-    
+
+    # This is a new idea that was defined previously
     newIdea()
 
     choice = input(">> ").strip().lower()
