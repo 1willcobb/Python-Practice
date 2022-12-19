@@ -2,7 +2,10 @@ class Solution:
     def removeElement(self, nums: list[int], val: int) -> int:
         
         
-        for i in nums:
+        for i in range(len(nums)):
+            if 
+            print(nums[i])
+          
             
 
 
