@@ -9,3 +9,5 @@ This is a place to continue my python development skills while I am working
 * Several of these projects include projects from Python Crash Course
 
 ## Examples of additions
+
+In the study of python, I have learned the simplicity of the language is key. 
