@@ -13,6 +13,7 @@ class Person:
 
 person1 = Person("Will", "CEO", 32, 95)
 person2 = Person("Sav", "Editor", 27)
+person3 = Person("Dragon", "COO", 34, 95 )
 
 print(person1)
 print(person2)
