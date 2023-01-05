@@ -1,7 +1,3 @@
 # Py Dungeon Crawler
 
-The Crawler took so long to make
-
-Added more to the crawlwer
-
-another way out
+Working on the Dungeon crawler really challenged me to learn about how decentralization of code and compartmentalizing things works within Python. Modularization.
