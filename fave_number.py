@@ -18,7 +18,7 @@ def prompt_new_user():
     new_user_name = input("What would you like your user name to be? > ")
     print(f"Sweet! We will rememver you {new_user_name} for next time.")
     with open(user_name_store, 'w') as file:
-        json.dump(user_name_store, file)
+        json.dump(new_user_name, file)
     return new_user_name
 
 def program_interface():
